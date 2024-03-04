@@ -1,11 +1,11 @@
 # Local Avalanche Subnet and Smart Contract Deployment
 
-This guide walks you through the process of establishing a local Avalanche Subnet using `avalanche-cli` and deploying two smart contracts, namely `token.sol` and `vault.sol`, through Remix and MetaMask.
+This guide outlines the process of establishing a local Avalanche Subnet using `avalanche-cli` and deploying two smart contracts, `token.sol` and `vault.sol`, via Remix and MetaMask.
 
 ## Prerequisites
 - **Golang Installation:** Ensure Golang is installed to build `avalanche-cli`.
 - **Node.js Installation:** Install Node.js to facilitate running the local Avalanche node.
-- **Avalanche CLI Setup:** Follow the instructions in the [Avalanche CLI Installation Guide](https://docs.avax.network/tooling/cli-guides/install-avalanche-cli) for `avalanche-cli` installation.
+- **Avalanche CLI Setup:** Follow the instructions in the [Avalanche CLI Installation Guide](https://docs.avax.network/tooling/cli-guides/install-avalanche-cli) for installing `avalanche-cli`.
 - **MetaMask Configuration:** Install and configure MetaMask to connect to the local Avalanche node.
 - **Remix Workspace:** Open Remix and create a new workspace.
 
